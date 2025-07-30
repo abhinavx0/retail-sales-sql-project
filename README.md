@@ -52,6 +52,12 @@ A collection of SQL queries solving real-world **business and data analysis prob
 - Basic knowledge of aggregate functions, window functions, and date handling
 
 ---
+## ✅ How to Use
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/sql-retail-analysis.git
+---
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
@@ -64,8 +70,3 @@ I'm passionate about turning raw data into meaningful insights and am actively w
 I enjoy solving real-world problems through data, exploring trends, and drawing actionable conclusions that drive decision-making.
 I'm constantly improving my skills in SQL, Excel, Python, and data visualization tools like Power BI and Tableau.
 With hands-on project experience in data warehousing and analytics, I'm building a strong foundation for a future in analytics and consulting.
-## ✅ How to Use
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/sql-retail-analysis.git
